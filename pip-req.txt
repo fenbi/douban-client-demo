@@ -1,0 +1,2 @@
+douban-client==0.0.5
+Flask==0.10.1
